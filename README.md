@@ -68,7 +68,7 @@ npm run dev
 
 ## Live Demo
 
-Coming Soon
+https://aditi-baskaran-portfolio.vercel.app/
 
 ## Author
 
